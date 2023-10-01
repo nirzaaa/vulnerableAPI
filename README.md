@@ -25,6 +25,24 @@ I will also explain in this note how to exploit the Business logic vulnerabiliti
 
 In this repository you will be able to find the the Postman Collection for easy interaction with the API.
 
+## Setting up
+
+Start by cloning the repository:
+```
+git clone https://github.com/nirzaaa/vulnerableAPI.git
+cd vulnerableAPI
+```
+
+Then we will have to download and install the specified packages and their dependencies:
+```
+npm install
+```
+
+Then, all is left for us is to start the application:
+```
+npm start
+```
+
 ## Table of Contents
 
 [Data leakage](https://github.com/nirzaaa/vulnerableAPI#data-leakage)
