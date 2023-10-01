@@ -25,6 +25,14 @@ I will also explain in this note how to exploit the Business logic vulnerabiliti
 
 In this repository you will be able to find the the Postman Collection for easy interaction with the API.
 
+## Table of Contents
+
+[Data leakage](https://github.com/nirzaaa/vulnerableAPI#data-leakage)
+
+[Weak Password Requirements](https://github.com/nirzaaa/vulnerableAPI#weak-password-requirements)
+
+[Race condition](https://github.com/nirzaaa/vulnerableAPI#race-condition)
+
 ## Data leakage
 
 After log-in as `nirza` and trying to see the data of all of the users, I will be able to see their salt, password and sessionToken:
